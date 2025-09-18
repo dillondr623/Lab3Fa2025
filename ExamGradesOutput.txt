@@ -1,0 +1,15 @@
+Enter Exam 1 score: 90
+Enter Exam 2 score: 95
+Enter Exam 3 score: 86
+With an avg score of 90.3
+Your grade is: A
+Enter Exam 1 score: 89
+Enter Exam 2 score: 70
+Enter Exam 3 score: 80
+With an avg score of 79.7
+Your grade is: C
+Enter Exam 1 score: 76
+Enter Exam 2 score: 50
+Enter Exam 3 score: 52
+With an avg score of 59.3
+Your grade is: F

@@ -1,0 +1,12 @@
+Enter first number: 3
+Enter second number: 2
+Enter third number: 1
+1 2 3
+Enter first number: 2
+Enter second number: 3
+Enter third number: 1
+1 2 3
+Enter first number: 1
+Enter second number: 3
+Enter third number: 2
+1 2 3
